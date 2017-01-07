@@ -1,0 +1,44 @@
+/*h1 {
+	font-size: 30px;
+}*/
+
+.scoreboard {
+	max-width: 600px;
+	margin: auto;
+	background-color: lightgrey;
+}
+
+.header {
+	background-color: red;
+	color: #fff;
+}
+
+.teams {
+
+}
+
+.team-name {
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+}
+
+.counter {
+	width: 100%;
+}
+
+.counter-change, .team-score {
+	width: 33%;
+}
+
+.minus {
+	background-color: #ff0000;
+	color: white;
+
+}
+
+.plus {
+	background-color: #00ff00;
+	color: black;
+
+}
